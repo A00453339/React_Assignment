@@ -1,0 +1,23 @@
+.ProfileImg{
+    height: 200px;
+    width:200px;
+    border-radius: 100px;
+}
+.Name{
+    font-size: 35px;
+    color: rebeccapurple;
+}
+.course{
+    font-size: 30px;
+}
+.textSection{
+    padding-top:30px;
+}
+.Desc{
+    width:50%;
+    padding-top: 30px;
+    margin:0 auto;
+}
+.mcdaSection{
+    padding-top: 50px;
+}
